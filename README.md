@@ -7,7 +7,7 @@
 
 ## 项目运行效果截图
 
-[TODO: 此处上传效果截图]
+<img src="https://github.com/LiuEhe/YOLO_detect/tree/main/result/1.jpg" width="300" height="165.5">
 
 ## 功能
 - 支持摄像头和视频文件的实时目标检测
